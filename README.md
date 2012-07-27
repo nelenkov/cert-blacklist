@@ -2,6 +2,7 @@ Jelly Bean certificate blacklisting
 ==============
 
 Sample code for the 'Certificate blacklisting in Jelly Bean' article at 
+
 http://nelenkov.blogspot.com/2012/07/certificate-blacklisting-in-jelly-bean.html
 
 How to use:
