@@ -36,7 +36,7 @@ public class MainActivity extends Activity implements OnClickListener {
 
     private static final String TAG = MainActivity.class.getSimpleName();
 
-    private static final String CA_CERT_FILENAME = "cacert.cer";;
+    private static final String CA_CERT_FILENAME = "cacert.cer";
     private static final String EE_CERT_FILENAME = "keystore-test.cer";
 
     public static final String PUBKEY_BLACKLIST_KEY = "pubkey_blacklist";
